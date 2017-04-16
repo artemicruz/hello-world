@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Just ANOTHER repository
+
+Siguiendo el tuto de inicialización en github.
